@@ -13,6 +13,16 @@ export const localeOptions = [
   { id: "enrtl", name: "English - RTL", direction: "rtl" }
 ];
 
+export const searchPath = "/app/pages/search";
+export const servicePath = "https://api.coloredstrategies.com";
+// export const localPath = "http://localhost:8010/";
+export const intalkPath = "http://localhost:8010/";
+export const localPath = "http://localhost:8010/";
+export const defaultRedirect = "http://localhost:8010/";
+export const univalleydefaultRedirect = "http://localhost:8010/";
+export const uniConnectDefaultRedirect = "http://localhost:8010//"
+export const uniconnectUrl = "http://localhost:8010/";
+
 
 /* 
 Color Options:
@@ -25,3 +35,4 @@ export const isDarkSwitchActive = true;
 export const defaultDirection = "ltr";
 export const themeRadiusStorageKey = "__theme_radius";
 export const isDemo = false;
+export const AES_KEY = "";

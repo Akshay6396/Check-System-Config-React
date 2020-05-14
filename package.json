@@ -1,7 +1,7 @@
 {
   "name": "troubleshoot",
   "version": "0.0.1",
-  "description": "Login to Dashboard - Leverage Edu",
+  "description": "Trouble Shoot App",
   "private": true,
   "dependencies": {
     "@glidejs/glide": "^3.3.0",

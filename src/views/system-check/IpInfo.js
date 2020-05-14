@@ -21,7 +21,7 @@ export class IpInfo extends Component {
     });
     DetectRTC.DetectLocalIPAddress(this.callBack)
     // let token = loggedInUser.getToken();
-    // window.location = "https://www.leverageedu.com/app?token=" + token;
+    // window.location = "https://www.akshay.com/app?token=" + token;
   }
 
   callBack = (data) => {

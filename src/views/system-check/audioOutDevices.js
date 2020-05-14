@@ -19,7 +19,7 @@ export class AudioOutputDevices extends Component {
       })
     });
     let token = loggedInUser.getToken();
-    // window.location = "https://www.leverageedu.com/app?token=" + token;
+    // window.location = "https://www.akshay.com/app?token=" + token;
   }
   render() {
     const { deviceConfig } = this.state;

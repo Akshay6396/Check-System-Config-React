@@ -14,7 +14,7 @@ class UniUserLayout extends Component {
         <div className="fixed-background" />
         <nav className="navbar navbar-expand-lg  sticky-top">
             <div className="container">
-              <a href="https://leverageedu.com/" className="navbar-brand">
+              <a href="https://akshay.com/" className="navbar-brand">
                 <img className="logo" src={require('../assets/img/logo-white.svg')} alt="logo" />
               </a>
             </div>

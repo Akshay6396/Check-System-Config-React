@@ -8,7 +8,7 @@ export class RedirectRoute extends Component {
   }
   componentWillMount() {
     let token = loggedInUser.getToken();
-    window.location = "https://www.leverageedu.com/app?token=" + token;
+    window.location = "https://www.akshay.com/app?token=" + token;
   }
   render() {
     return (<section>Redirecting...</section>);

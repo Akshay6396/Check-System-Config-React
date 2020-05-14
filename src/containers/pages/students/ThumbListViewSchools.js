@@ -79,7 +79,7 @@ class ThumbListViewSchools extends Component {
                     alt={product.school_name}
                     src={
                       product.school_logo
-                        ? "https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/" +
+                        ? "https://s3.ap-south-1.amazonaws.com/akshay/school-logo/" +
                         product.school_logo // Use object with 'uri'
                         : "https://postsales.s3.ap-south-1.amazonaws.com/default_image.png"
                     }

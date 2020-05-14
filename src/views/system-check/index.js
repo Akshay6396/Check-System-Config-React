@@ -29,7 +29,7 @@ export class SystemCheck extends Component {
       })
     });
     let token = loggedInUser.getToken();
-    // window.location = "https://www.leverageedu.com/app?token=" + token;
+    // window.location = "https://www.akshay.com/app?token=" + token;
   }
   toggle = tab => {
     const { activeTab } = this.state;

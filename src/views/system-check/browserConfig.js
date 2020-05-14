@@ -19,7 +19,7 @@ export class BrowserConfig extends Component {
       })
     });
     let token = loggedInUser.getToken();
-    // window.location = "https://www.leverageedu.com/app?token=" + token;
+    // window.location = "https://www.akshay.com/app?token=" + token;
   }
   render() {
     const { browser } = this.state.deviceConfig;
